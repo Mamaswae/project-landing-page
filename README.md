@@ -1,2 +1,5 @@
-# project-landing-page
-Web HTML project landing page
+project-landing-page/
+  index.html
+  style.css
+  script.js
+  README.md
